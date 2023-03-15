@@ -1,0 +1,13 @@
+.mainBlock{
+    padding-left: 400px;
+    align-content: center;
+    align-items: center;
+    background-color: rgb(30, 87, 57);
+    color: rgb(20, 21, 26);
+}
+button{
+    align-content: center;
+    color:blue;
+    background-color: red;
+    border-radius: 20px;
+}
